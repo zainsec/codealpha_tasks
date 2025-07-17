@@ -20,7 +20,7 @@ The internship provided real-world experience in network analysis, security awar
 - Identified common issues like input validation flaws and insecure APIs.
 - Provided remediation recommendations and secure coding guidelines.
 
-### 🛡️ Task 4: Network Intrusion Detection System (NIDS)
+### Task 4: Network Intrusion Detection System (NIDS)
 - Set up Snort/Suricata for real-time traffic analysis.
 - Configured rules to detect intrusions and alert based on malicious patterns.
 - Optionally visualized detections using dashboards or logs.
