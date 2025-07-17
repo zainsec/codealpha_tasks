@@ -1,0 +1,5 @@
+Google Phishing Quiz: https://phishingquiz.withgoogle.com/
+VirusTotal: https://www.virustotal.com/
+Cyber Aware (UK): https://www.cyberaware.gov.uk/
+OWASP Phishing Guide: https://owasp.org/www-community/phishing
+YouTube: How Phishing Works - https://youtu.be/1ldG_MZ4e9s
